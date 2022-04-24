@@ -1,6 +1,6 @@
+![nanoSDK](https://nanosdk.net/img/nanoSDKLogo.png)
 # nanoSDK
 nanoSDK is a modded SDK that bypasses and adds new futures, with nanoSDK you can upload avatars with a lot of polygons, make global audio sources without any limitations and much more!.
-![nanoSDK](https://nanosdk.net/img/nanoSDKLogo.png)
 
 nanoSDK is being constently updated and worked on (we always try to be as fast as possible with updates) and also has new futures that the normal VRChat sdk dosen't have such as remove missing scripts form a gameobject automaticly, more on information read "Features".
 
