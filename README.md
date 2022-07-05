@@ -1,3 +1,4 @@
+# nanoSDK HAS BEEN CANCELED! we switched everything and dont create a modded SDK anymore. (since its fucking useless these days)
 ![nanoSDK](https://nanosdk.net/img/nanoSDKLogo.png)
 # nanoSDK
 nanoSDK is a modded SDK that bypasses and adds new futures, with nanoSDK you can upload avatars with a lot of polygons, make global audio sources without any limitations and much more!.
